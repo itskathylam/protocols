@@ -25,7 +25,7 @@ The following are protocols that I have generated myself, inherited from others,
 - Colonization of germ-free mice with a mock community
 - Sample collection and fogging isolator ports
 - High-throughput DNA extraction from mouse fecal pellets
-
+- Plating for colonies from mouse fecal pellets
 
 ### Molecular Biology Methods
 - Gel eletrophoresis
