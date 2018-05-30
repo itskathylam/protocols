@@ -18,7 +18,7 @@ The following are protocols that I have generated myself, inherited from others,
 - Streak-purification of phage
 - Propogation of phage by plate lysate
 - Ultracentrifugation for quick clean-up of phage lysates
-- DNA extraction from phage using Wizard DNA clean-up kit
+- [DNA extraction from phage using Promega Wizard DNA Clean-Up Kit](dna_extraction_phage_wizard_kit.md)
 
 
 ### Mouse Methods
@@ -47,3 +47,4 @@ The following are protocols that I have generated myself, inherited from others,
 - [SM buffer](SM_buffer.md)
 - TE buffer
 - TAE buffer
+- PEG/NaCl phage precipitation solution
