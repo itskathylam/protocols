@@ -17,7 +17,7 @@ The following protocol is largely taken from the [Center for Phage Technology pr
 ### Reagents
 
 - [ ] phage lysate, 10^10 to 10^11 PFU/ml 
-- [ ] 20 mg/ml DNase I, prepared from powder (VWR D3489) as per [CSH](http://cshprotocols.cshlp.org/content/2006/1/pdb.rec8135.full?text_only=true)
+- [ ] 10 mg/ml DNase I, prepared from powder (VWR D3489) as per [CSH](http://cshprotocols.cshlp.org/content/2006/1/pdb.rec8135.full?text_only=true)
 - [ ] 10 mg/ml RNase A (Thermo Fisher EN0531) 
 - [ ] 30% PEG-8000, 3 M NaCl non-sterile phage precipitation solution (stir overnight at RT to dissolve)
 - [ ] 0.5 M EDTA (pH 8.0)
@@ -29,7 +29,7 @@ The following protocol is largely taken from the [Center for Phage Technology pr
 ### Day 1
 
 - Filter 10 ml lysate through 0.2 um into a 15-ml conical tube
-- Add 5 ul 20 mg/ml DNase I
+- Add 10 ul 10 mg/ml DNase I
 - Add 10 ul 10 mg/ml RNase A
 - Mix by gentle inversion
 - Incubate at 37°C for 30 min to digest contaminating nucleic acids
