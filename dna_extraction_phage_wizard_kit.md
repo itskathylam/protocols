@@ -6,7 +6,7 @@ The following protocol is largely taken from the [Center for Phage Technology pr
 
 ### Equipment and supplies
 
-- [ ] centrifuge tubes and a centrifuge capable of 10,000g (e.g., Oak Ridge polypropylene tubes with Sorvall centrifuge JA-20 rotor)
+- [ ] centrifuge tubes and centrifuge capable of 10,000g (e.g., Oak Ridge tubes with Sorvall JA-20)
 - [ ] Wizard DNA Clean-Up Kit (Promega A7280)
 - [ ] 3-ml syringe plungers
 - [ ] 1.5-ml and 2.0-ml microfuge tubes
