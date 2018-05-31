@@ -9,7 +9,9 @@ The following protocol is largely taken from the [Center for Phage Technology pr
 - [ ] centrifuge tubes and centrifuge capable of 10,000g (e.g., Oak Ridge tubes with Sorvall JA-20)
 - [ ] Wizard DNA Clean-Up Kit (Promega A7280)
 - [ ] 3-ml syringe plungers
-- [ ] 1.5-ml and 2.0-ml microfuge tubes
+- [ ] 1.5-ml centrifuge tubes
+- [ ] 1.5-ml centrifuge tubes, with no lids (can manually cut off)
+- [ ] 2.0-ml microfuge tubes
 - [ ] 37°C and 50°C water bath or incubator or thermomixer
 - [ ] waste beaker
 
@@ -69,12 +71,13 @@ The following protocol is largely taken from the [Center for Phage Technology pr
 - Reattach the barrel to the column
 - Repeat the wash
 - Detach the entire syringe and discard it
-- Place the column into a new 1.5-ml tube
+- Place the column into 1.5-ml tube with no lid
 - Centrifuge at 21,000g at RT for 2 min to dry the column
-- Transfer the column to a new 1.5-ml tube
+- Transfer the column to a new 1.5-ml tube with no lid
 - Pipette 100 ul TE buffer into the column
 - Incubate RT for a few min
 - Centrifuge at 21,000g at RT for 1 min to elute the DNA
+- Gently pipette to mix the DNA and transfer to a new 1.5-ml tube
 
 
 ### Wrap-up
@@ -83,6 +86,10 @@ The following protocol is largely taken from the [Center for Phage Technology pr
 - Incubate the DNA at 65°C for 10 min to inactivate any remaining contaminating nucleases
 - Store at -20°C
 
+
+### Notes
+
+- It is important use 1.5-ml tubes with no lids in the final spin and elution steps because sometimes the pressure of an object (an adjacent tube or centrifuge lid) can cause the tube to warp, and the mass of the minicolumn will cause the entire tube to collapse and break, leading to loss of sample. Yes, this did happen to me.
 
 
 
