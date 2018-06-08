@@ -83,8 +83,8 @@ The following protocol is largely taken from the [Center for Phage Technology pr
 ### Wrap-up
 
 - Nanodrop or Qubit the elution for DNA concentration
-- Run on a gel with dilution series of lambda phage DNA 
 - Incubate the DNA at 65°C for 10 min to inactivate any remaining contaminating nucleases
+- Run on a gel with dilution series of lambda phage DNA
 - Store at -20°C
 
 
