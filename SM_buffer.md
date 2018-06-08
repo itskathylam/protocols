@@ -10,3 +10,4 @@ This recipe is taken from Cold Spring Harbor Protocols for [SM buffer with gelat
 | Gelatin (2% w/v)       | 5 ml       | 0.01% (w/v)         | autoclaved   |
 | H2O                    | to 1 liter |                     |              |
 
+Autoclave.
