@@ -2,7 +2,12 @@
 
 The things that we do in the laboratory form the foundation of our science. Protocol transparency is important for reproducibility and for understanding caveats due to methodology. Protocol sharing also helps the entire scienctific enterprise and Github is a awesome way to keep protocols up-to-date but also be able to refer to older versions. 
 
-The following are protocols that I have generated myself, inherited from others, or are adapted from protocols in the literature or on the web. Where possible, references are included. If there are any errors to be fixed or improvements for clarity, please let me know. This is a work in progress, and protocols will be linked as soon as I have time to update them! 
+The following are protocols that I have generated myself, inherited from others, or are adapted from those in product manuals, in the literature, or on the web. Where possible, references are included. If there are any errors to be fixed or improvements for clarity, please let me know. This is a work in progress, and protocols will be linked as soon as I have time to update them! 
+
+
+### Methods Related to Good Lab Etiquette
+- Adding glycerol stocks to the lab strain collection
+- Making personal glycerol stocks from lab strain collection for regular use
 
 
 ### Bacterial Methods
@@ -21,11 +26,17 @@ The following are protocols that I have generated myself, inherited from others,
 - [DNA extraction from phage using Promega Wizard DNA Clean-Up Kit](dna_extraction_phage_wizard_kit.md)
 
 
+### M13 phage Methods
+- Generation of M13 particles carrying phagemid ssDNA
+
+
 ### Mouse Methods
+- Considerations and planning of a gnotobiotic mouse experiment
 - Colonization of germ-free mice with a mock community
 - Sample collection and fogging isolator ports
 - High-throughput DNA extraction from mouse fecal pellets
 - Plating for colonies from mouse fecal pellets
+
 
 ### Molecular Biology Methods
 - Gel eletrophoresis
@@ -44,7 +55,9 @@ The following are protocols that I have generated myself, inherited from others,
 - Antibiotic stocks and working concentrations
 - BHI-based media
 - LB media
+- 2YT media
 - [SM buffer](SM_buffer.md)
 - TE buffer
 - TAE buffer
-- PEG/NaCl phage precipitation solution
+- PEG/NaCl precipitation solution for DNA extraction
+- PEG/NaCl precipitation solution for M13 phage
