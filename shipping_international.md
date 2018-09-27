@@ -9,7 +9,7 @@ The following protocol is for shipping packages from the G.W. Hooper Research Fo
 - Write a customs letter; see my [example](files/shipping_customs_letter.pdf). The important part is to state that materials being shipped are for research purposes only and have no commercial value.
 - Describe all items contained. State the value as $1.
 - Make sure to include HS codes and values in both the waybill and letter.
-- Make sure the customs letter is clearly labeled.
+- Make sure the customs letter is in a clearly labeled envelope.
 
 <p align="center">
 <img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_waybill_customs_letter.png" width="85%" class="center">
@@ -33,15 +33,18 @@ The following protocol is for shipping packages from the G.W. Hooper Research Fo
 - Attach a dry ice label on the side. Fill in the blank for the weight of dry ice.
 - Attach the customs letter to the side of the box. 
 
-![box](files/shipping_box.png)
+<p align="center">
+<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_box.png" width="85%" class="center">
+</p>
 
 
 ### Call Fedex
 
 - Follow the instructions for a Fedex express pickup; write down the confirmation number.
 
-![pickup](files/shipping_fedex_pickup.jpg)
-
+<p align="center">
+<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_fedex_pickup.jpg" width="85%" class="center">
+</p>
 
 
 
