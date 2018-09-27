@@ -11,7 +11,9 @@ The following protocol is for shipping packages from the G.W. Hooper Research Fo
 - Make sure to include HS codes and values in both the waybill and letter.
 - Make sure the customs letter is clearly labeled.
 
-<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_waybill_customs_letter.png" width="85">
+<center>
+<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_waybill_customs_letter.png" width="85%">
+</center>
 
 ### Package your sample
 
