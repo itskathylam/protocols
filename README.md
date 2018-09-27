@@ -48,7 +48,11 @@ The following are protocols that I have generated myself, inherited from others,
 - Setting up a bash profile and aliases
 - Mounting a computing cluster directory locally in Ubuntu / MacOS
 - Starting a Github repository on a computing cluster
-- Sumitting fastq files to NCBI SRA
+- Submitting fastq files to NCBI SRA
+
+
+### Administrative Procedures
+- [Shipping packages via Fedex to international collaborators](shipping_international.md)
 
 
 ### Media and Solutions
