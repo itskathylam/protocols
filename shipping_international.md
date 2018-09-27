@@ -6,7 +6,7 @@ The following protocol is for shipping packages from the G.W. Hooper Research Fo
 ### Prepare the documentation
 
 - Fill in the Fedex waybill for international shipping.
-- Write a customs letter; see my [example](files/shipping_customs_letter.pdf). The important part is to state that materials being shipped are for research purposes only and have no commercial value.
+- Write a customs letter; see my [example](files/shipping_customs_letter.pdf). The important part is to state that materials being shipped are for research purposes only and have no commercial value and that they are not harmful.
 - Describe all items contained. State the value as $1.
 - Make sure to include HS codes and values in both the waybill and letter.
 - Make sure the customs letter is in a clearly labeled envelope.
