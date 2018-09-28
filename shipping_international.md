@@ -2,18 +2,16 @@
 
 
 The following protocol is for shipping packages from the G.W. Hooper Research Foundation at UCSF.
+Review the instructions for packaging UN 3373 dangerous goods from Fedex.
 
 ### Prepare the documentation
 
-- Fill in the Fedex waybill for international shipping.
-- Write a customs letter; see my [example](files/shipping_customs_letter.pdf). The important part is to state that materials being shipped are for research purposes only and have no commercial value and that they are not harmful.
-- Describe all items contained. State the value as $1.
+- Fill in the Fedex waybill for international shipping. Make sure it has the Special Handling field for dangerous goods (incl. dry ice). Check yes and include a customs letter/shipper's declaration.
+- Write the customs letter; see my [example](files/shipping_customs_letter.pdf). The important part is to state that materials being shipped are for research purposes only and have no commercial value and that they are considered harmful.
+- Declare all items contained. State the value as $1.
 - Make sure to include HS codes and values in both the waybill and letter.
 - Make sure the customs letter is in a clearly labeled envelope.
 
-<p align="center">
-<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_waybill_customs_letter.png" width="85%" class="center">
-</p>
 
 ### Package your sample
 
@@ -30,6 +28,7 @@ The following protocol is for shipping packages from the G.W. Hooper Research Fo
 ### Label the box
 
 - Attach the waybill on top.
+- Print and attach a UN 3373 label for dangerous goods.
 - Attach a dry ice label on the side. Fill in the blank for the weight of dry ice.
 - Attach the customs letter to the side of the box. 
 
