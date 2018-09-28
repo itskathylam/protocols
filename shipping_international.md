@@ -7,7 +7,7 @@ Review the instructions for packaging UN 3373 dangerous goods from Fedex.
 ### Prepare the documentation
 
 - Fill in the Fedex waybill for international shipping. Make sure it has the Special Handling field for dangerous goods (incl. dry ice). Check yes and include a customs letter/shipper's declaration.
-- Write the customs letter; see my [example](files/shipping_customs_letter.pdf). The important part is to state that materials being shipped are for research purposes only and have no commercial value and that they are considered harmful.
+- Write the customs letter; see my [example](files/shipping_customs_letter.pdf). The important part is to state that materials being shipped are for research purposes only and have no commercial value and that they are not considered harmful.
 - Declare all items contained. State the value as $1.
 - Make sure to include HS codes and values in both the waybill and letter.
 - Make sure the customs letter is in a clearly labeled envelope.
