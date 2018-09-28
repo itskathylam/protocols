@@ -32,7 +32,7 @@ Review the instructions for packaging UN 3373 dangerous goods from Fedex.
 ### Label the box
 
 - Attach the waybill on top.
-- Print and attach a UN 3373 label for dangerous goods.
+- Print and attach a UN 3373 label for dangerous goods / biological substance category B.
 - Attach a dry ice label on the side. Fill in the blank for the weight of dry ice.
 - Attach the customs letter to the side of the box. 
 
@@ -46,7 +46,7 @@ Review the instructions for packaging UN 3373 dangerous goods from Fedex.
 - Follow the instructions for a Fedex express pickup; write down the confirmation number.
 
 <p align="center">
-<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_fedex_pickup.jpg" width="75%" class="center">
+<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_fedex_pickup.jpg" width="85%" class="center">
 </p>
 
 
