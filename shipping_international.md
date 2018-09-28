@@ -12,6 +12,10 @@ Review the instructions for packaging UN 3373 dangerous goods from Fedex.
 - Make sure to include HS codes and values in both the waybill and letter.
 - Make sure the customs letter is in a clearly labeled envelope.
 
+<p align="center">
+<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_waybill.jpg" width="85%" class="center">
+</p>
+
 
 ### Package your sample
 
@@ -42,7 +46,7 @@ Review the instructions for packaging UN 3373 dangerous goods from Fedex.
 - Follow the instructions for a Fedex express pickup; write down the confirmation number.
 
 <p align="center">
-<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_fedex_pickup.jpg" width="85%" class="center">
+<img src="https://github.com/itskathylam/protocols/blob/master/files/shipping_fedex_pickup.jpg" width="75%" class="center">
 </p>
 
 
