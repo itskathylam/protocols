@@ -24,7 +24,7 @@ The following are protocols that I have generated myself, inherited from others,
 - Propogation of phage by plate lysate
 - Ultracentrifugation for quick clean-up of phage lysates
 - [DNA extraction from phage using Promega Wizard DNA Clean-Up Kit](dna_extraction_phage_wizard_kit.md)
-- [Test lysogen culture supernatants for spontaneous induction of phage](lysogen_supernatants_phage.md)
+- [Test lysogen supernatants for spontaneous induction of phage](lysogen_supernatants_phage.md)
 
 
 ### M13 phage Methods

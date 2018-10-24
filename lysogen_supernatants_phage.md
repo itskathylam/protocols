@@ -1,4 +1,4 @@
-# Test lysogen culture supernatants for spontaneous induction of phage
+# Test lysogen supernatants for spontaneous induction of phage
 
 ### Equipment and supplies
 
