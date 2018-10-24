@@ -1,8 +1,4 @@
-# DNA extraction from phage using Promega Wizard DNA Clean-Up Kit
-
-
-The following protocol is largely taken from the [Center for Phage Technology protocol](https://cpt.tamu.edu/phage-links/phage-protocols/) for extracting DNA from phage lysates using the Promega [Wizard DNA Clean-Up System](https://www.promega.com/-/media/files/resources/protcards/wizard-dna-clean-up-system-quick-protocol.pdf).
-
+# Test lysogen culture supernatants for spontaneous induction of phage
 
 ### Equipment and supplies
 
