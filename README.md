@@ -5,11 +5,6 @@ The things that we do in the laboratory form the foundation of our science. Prot
 The following are protocols that I have generated myself, inherited from others, or are adapted from those in product manuals, in the literature, or on the web. Where possible, references are included. If there are any errors to be fixed or improvements for clarity, please let me know. This is a work in progress, and protocols will be linked as soon as I have time to update them! 
 
 
-### Methods Related to Good Lab Etiquette
-- Adding glycerol stocks to the lab strain collection
-- Making personal glycerol stocks from lab strain collection for regular use
-
-
 ### Bacterial Methods
 - Large-scale genomic DNA extraction from pure culture
 - Triparental conjugation into Bacteroides
@@ -54,6 +49,11 @@ The following are protocols that I have generated myself, inherited from others,
 
 ### Administrative Procedures
 - [Shipping packages via Fedex to international collaborators](shipping_international.md)
+
+
+### Methods Related to Good Lab Etiquette
+- Adding glycerol stocks to the lab strain collection
+- Making personal glycerol stocks from lab strain collection for regular use
 
 
 ### Media and Solutions

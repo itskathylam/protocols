@@ -43,6 +43,7 @@
     3. 100 ul filtered supernatant only
 - Incubate 10 min 37C for adsorption
 - Take aliquot of overlay from bath; seed with mixture
+- Vortex softly to mix; overlay on warmed agar plate
 - Allow to dry
 - Incubate overnight
 
