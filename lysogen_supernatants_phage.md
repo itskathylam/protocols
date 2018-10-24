@@ -26,7 +26,7 @@
 - Transfer and filter supernantant
 - Make serial ten-fold dilutions of supernatant in 8-strip PCR tubes
 - Take aliquot of overlay from bath; seed with 100 ul of indicator culture
-- Vortex softly to mix; overlay on warmed agar plate
+- Vortex gently to mix; overlay on warmed agar plate
 - Allow to dry well: 5-10 min in flowhood or 30-60 min on bench top
 - Use a multichannel to spot 3 ul of supernant on overlay
 - Allow spots to absorb completely into overlay
@@ -43,7 +43,7 @@
     3. 100 ul filtered supernatant only
 - Incubate 10 min 37C for adsorption
 - Take aliquot of overlay from bath; seed with mixture
-- Vortex softly to mix; overlay on warmed agar plate
+- Vortex gently to mix; overlay on warmed agar plate
 - Allow to dry
 - Incubate overnight
 
