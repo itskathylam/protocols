@@ -16,7 +16,7 @@
 
 ### Prep
 
-- Melt media for overlay; aliquot 3.5 ml into glass tubes; keep at 60C water bath
+- Melt media for overlay; aliquot 4 ml into glass tubes; keep at 60C water bath
 - Warm plates at 37C until ready to use, esp. if using plates stored at 4C; this helps overlay from solidifying too quicky
 
 ### 1. Spot titer assay
