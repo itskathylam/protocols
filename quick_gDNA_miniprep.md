@@ -7,6 +7,7 @@ Disclaimer: DNA prepared using this method is not clean and is not meant to be u
 - [ ] microfuge tubes
 - [ ] freezer, liquid nitrogen, or dry ice
 - [ ] thermomixer set to 100C
+- [ ] plastic cap locks (they are usually near the thermomixer)
 
 ### Reagents and materials
 
@@ -25,7 +26,7 @@ Disclaimer: DNA prepared using this method is not clean and is not meant to be u
     3. in liquid nitrogen (good if you want to finish asap)
 - Thaw the pellet on ice
 - Resuspend cells thoroughly in 100 ul of TE
-- Use plastic cap locks (they are usually near the thermomixer) to secure lids. This prevents them from popping open.
+- Use plastic cap locks to secure lids. This prevents them from popping open.
 - Boil for 10-15 minutes in the thermomixer at 100C
 - Cool the tubes on ice before removing the cap locks. This reduces the pressure inside the tube.
 - Pellet cell debris for 1 minute at max centrifuge speed 
