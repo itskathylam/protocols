@@ -6,7 +6,7 @@ Disclaimer: DNA prepared using this method is not clean and is not meant to be u
 
 - [ ] microfuge tubes
 - [ ] freezer, liquid nitrogen, or dry ice
-- [ ] thermomixer set to 100C, or water bath set to 95C
+- [ ] thermomixer set to 100C
 
 ### Reagents and materials
 
