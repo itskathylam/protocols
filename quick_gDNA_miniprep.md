@@ -30,6 +30,7 @@ Disclaimer: DNA prepared using this method is not clean and is not meant to be u
 - Cool the tubes on ice before removing the cap locks. This reduces the pressure inside the tube.
 - Pellet cell debris for 1 minute at max centrifuge speed 
 - Transfer supernatant to a new tube
+- Store at -20C
 - Dilute 1 in 100 in TE to use as PCR template for Gram negative bacteria, e.g., E. coli; use directly or dilute 1 in 10 for Gram positive bacteria.
 
 
