@@ -32,7 +32,7 @@ The following are protocols that I have generated myself, inherited from others,
 - Considerations and planning of a gnotobiotic mouse experiment
 - Colonization of germ-free mice with a mock community
 - Sample collection and fogging isolator ports
-- High-throughput DNA extraction from mouse fecal pellets
+- [HTP DNA extraction from fecal pellets using ZymoBIOMICS 96 MagBead DNA Kit](mouse_fecal_pellets_zymobiomics_96_magbead.md)
 - Plating for colonies from mouse fecal pellets
 
 
