@@ -62,7 +62,7 @@ The following are protocols that I have generated myself, inherited from others,
 - Antibiotic stocks and working concentrations
 - BHI-based media
 - LB media
-- [TB media](TB_media.md)) 
+- [TB media](TB_media.md) 
 - 2YT media
 - [SM buffer](SM_buffer.md)
 - TE buffer
