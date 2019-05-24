@@ -1,4 +1,4 @@
-# SM Buffer
+# SM Buffer (Sodium Chloride Magnesium)
 
 This recipe is taken from Cold Spring Harbor Protocols for [SM buffer with gelatin](http://cshprotocols.cshlp.org/content/2006/1/pdb.rec466).
 
