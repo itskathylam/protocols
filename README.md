@@ -7,8 +7,8 @@ The following are protocols that I have generated myself, inherited from others,
 
 ### Bacterial Methods
 - [Quick genomic DNA miniprep for PCR](quick_gDNA_miniprep.md) 
-- Genomic DNA maxiprep
-- Plasmid DNA miniprep
+- Genomic DNA midiprep
+- Plasmid DNA miniprep using Qiagen QIAprep
 - Plasmid DNA maxiprep
 - Triparental conjugation into Bacteroides
 - Biparental conjugation into Clostridia
