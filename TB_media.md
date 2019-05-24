@@ -7,7 +7,7 @@ This recipe is adapted the from Cold Spring Harbor Protocols for [TB media](http
 | Yeast extract          | 24 g       |
 | Tryptone               | 20 g       |
 | 50% glycerol           | 8 ml       |
-| H2O                    | to 900 ml  |
+| dH2O                   | to 900 ml  |
 
 Autoclave.
 
