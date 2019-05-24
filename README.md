@@ -6,8 +6,8 @@ The following are protocols that I have generated myself, inherited from others,
 
 
 ### Bacterial Methods
-- [Quick and dirty genomic DNA miniprep for PCR](quick_gDNA_miniprep.md) 
-- Large-scale genomic DNA extraction
+- [Quick genomic DNA miniprep for PCR](quick_gDNA_miniprep.md) 
+- Genomic DNA maxiprep
 - Plasmid DNA miniprep
 - Plasmid DNA maxiprep
 - Triparental conjugation into Bacteroides
