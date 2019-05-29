@@ -12,7 +12,7 @@ This protocol has been adapted from: Trevor Charles, 1990. *Construction of a ge
 ### Reagents and materials
 
 - [ ] 1 L overnight culture (grown in TB for low-copy plasmids)
-- [ ] TEG, ALS, and HSS solutions
+- [ ] [TEG, ALS, and HSS solutions](https://github.com/itskathylam/protocols/blob/master/TEG_ALS_HSS_solutions.md)
 - [ ] T10E1 buffer, pH 8.0 (TE)
 - [ ] isopropanol
 - [ ] 7.5 M ammonium acetate
