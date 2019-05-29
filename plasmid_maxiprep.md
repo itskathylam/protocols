@@ -18,7 +18,7 @@ This protocol has been adapted from: Trevor Charles, 1990. *Construction of a ge
 - [ ] 7.5 M ammonium acetate
 - [ ] 5 M NaCl
 - [ ] 10 mg/ml RNase A (Thermo Scientific EN0531)
-- [ ] 20% SDS 
+- [ ] 10% SDS 
 - [ ] 20 mg/ml Proteinase K (Ambion AM2546)
 - [ ] buffered phenol chloroform IAA (25:24:1) (Sigma P2069)
 - [ ] chloroform 
@@ -58,7 +58,7 @@ This protocol has been adapted from: Trevor Charles, 1990. *Construction of a ge
 25. Split into two microfuge of 400 ul each.
 26. To each tube, add 4 ul 5 M NaCl and 5 ul 10 mg/ml RNase A.
 27. Incubate at 37C for 30 min.
-28. To each tube, add 2.5 ul 20% SDS and 5 ul of 20 mg/ml Proteinase K.
+28. To each tube, add 5 ul 10% SDS and 5 ul of 20 mg/ml Proteinase K.
 29. Incubate at 37C for 30 min.
 30. Extract with an equal volume of phenol chloform IAA.\
 *Note: inspect the phenol chloform IAA and do not use if it has turned from colourless to pink.*
