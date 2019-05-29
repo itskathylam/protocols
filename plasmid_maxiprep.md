@@ -61,7 +61,8 @@ This protocol has been adapted from: Trevor Charles, 1990. *Construction of a ge
 28. To each tube, add 5 ul 10% SDS and 5 ul of 20 mg/ml Proteinase K.
 29. Incubate at 37C for 30 min.
 30. Extract with an equal volume of phenol chloform IAA.\
-*Note: inspect the phenol chloform IAA and do not use if it has turned from colourless to pink.*
+*Note 1: inspect the phenolic phase and do not use if it has turned from colourless to pink or if the pH is below 7.
+*Note 2: this step can be omitted and the single chloform extraction will suffice in most cases.*
 31. Extract with an equal volume of chloroform.
 32. Precipitate DNA by adding 25 ul 5 M NaCl and 500 ul isopropanol.
 33. Carefully remove DNA with a pipette, dip into 70% ethanol to wash, and place into a new tube, combining the precipitate from both tubes.
