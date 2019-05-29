@@ -69,5 +69,6 @@ The following are protocols that I have generated myself, inherited from others,
 - [SM buffer](SM_buffer.md)
 - TE buffer
 - TAE buffer
+- [TEG, ALS, and HSS solutions](TEG_ALS_HSS_solutions.md)
 - PEG/NaCl precipitation solution for DNA extraction
 - PEG/NaCl precipitation solution for M13 phage
