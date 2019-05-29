@@ -9,7 +9,7 @@ The following are protocols that I have generated myself, inherited from others,
 - [Quick genomic DNA miniprep for PCR](quick_gDNA_miniprep.md) 
 - Genomic DNA midiprep
 - Plasmid DNA miniprep using Qiagen QIAprep Spin Miniprep Kit
-- Plasmid DNA maxiprep
+- [Plasmid DNA maxiprep](plasmid_maxiprep.md)
 - Preparation of electrocompetent cells
 - Triparental conjugation into Bacteroides
 - Biparental conjugation into Clostridia
