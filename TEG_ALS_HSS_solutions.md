@@ -2,6 +2,8 @@
 
 These recipes are from: Trevor Charles, 1990. Construction of a genetic linkage map of the Rhizobium meliloti 1600 kilobase megaplasmid pRmeSU47b, generation of defined megaplasmid deletions, and study of megaplasmid-borne genes. PhD Thesis, McMaster University.
 
+<br>
+
 ### TEG: resuspension
 
 Dilute from concentrated stock using dH2O:
