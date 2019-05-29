@@ -12,6 +12,7 @@ Dilute from concentrated stock using dH2O:
 | EDTA-Na (pH 8.0)       | 20 mM               | 1 in 10 of 0.2 M stock |
 | Glucose                | 1% (w/v)            |                        |
 
+<br>
 
 ### ALS: alkaline lysis
 
@@ -24,6 +25,7 @@ Dilute from concentrated stock using dH2O:
 
 Store in plastic bottle; do not store in glass.
 
+<br>
 
 ### HSS: neutralization
 
@@ -33,3 +35,4 @@ Store in plastic bottle; do not store in glass.
 | glacial acetic acid    | 282 ml              |                        |
 | dH20                   | top to 500 ml       |                        |
 
+<br>
