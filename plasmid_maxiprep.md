@@ -65,9 +65,9 @@ This protocol has been adapted from: Trevor Charles, 1990. *Construction of a ge
 *Note 2: this step can be omitted and the single chloform extraction will suffice in most cases.*
 31. Extract with an equal volume of chloroform.
 32. Precipitate DNA by adding 25 ul 5 M NaCl and 500 ul isopropanol.
-33. Carefully remove DNA with a pipette, dip into 70% ethanol to wash, and place into a new tube, combining the precipitate from both tubes.
+33. If the DNA precipitates into a large clumpy mass, carefully remove DNA with a pipette, dip into 70% ethanol to wash, and place into a new tube, combining the precipitate from both tubes. If the DNA does not precipitate into a large clumpy mass, centrifuge at max g for 5 min and wash pellet with 500 ul 70% ethanol.
 34. Allow DNA to thoroughly dry.\
-*Note: the edges of the clump will begin to turn transluscent.*
+*Note: the edges of the DNA will begin to turn transluscent.*
 35. Add 1 ml TE and allow the DNA to dissolve at 4C overnight.
 36. To quantify by Nanodrop, dilute 1-in-10 and 1-in-100. Also confirm by gel electrophoresis.\
 *Note: Typically, plasmid maxipreps yield concentrations of 500-1000 ng/ul for low-copy plasmids.*
