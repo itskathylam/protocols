@@ -13,6 +13,7 @@ The following are protocols that I have generated myself, inherited from others,
 - Preparation of electrocompetent cells
 - Triparental conjugation into Bacteroides
 - Biparental conjugation into Clostridia
+- [P1 transduction of E. coli](p1_transduction.md)
 
 
 ### Bacteriophage Methods
