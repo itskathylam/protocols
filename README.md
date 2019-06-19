@@ -21,7 +21,7 @@ The following are protocols that I have generated myself, inherited from others,
 - PFU enumeration by full-plate plaque assay
 - Phage enrichment from wastewater
 - Streak-purification of phage
-- Propogation of phage by plate lysate
+- [Propogation of phage by plate lysate](plate_lysate.md)
 - Ultracentrifugation for quick clean-up of phage lysates
 - [DNA extraction from phage using Promega Wizard DNA Clean-Up Kit](dna_extraction_phage_wizard_kit.md)
 - [Test lysogen supernatants for spontaneous induction of phage](lysogen_supernatants_phage.md)
