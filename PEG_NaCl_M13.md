@@ -1,4 +1,4 @@
-# 20% PEG-8000 / 2.5 M NaCl
+# PEG/NaCl for M13 precipitation
 
 This recipe is adapted from Tonikian et al., 2007. Nature Protocols. Identifying specificity profiles for peptide recognition modules from phage-displayed peptide libraries. DOI: 10.1038/nprot.2007.151
 
