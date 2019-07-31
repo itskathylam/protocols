@@ -1,6 +1,6 @@
 # Quick and dirty genomic DNA miniprep for PCR
 
-Disclaimer: DNA prepared using this method is not clean and is not meant to be used in applications requiring clean DNA. This is a fast method to generate template to use for PCR, e.g., for Sanger sequencing confirmation. It generally works well for me, especially for E. coli, but YMMV. 
+Disclaimer: DNA prepared using this method is not clean and is not meant to be used in applications requiring clean DNA. This is a fast and cheap method to generate template to use for PCR, e.g., for Sanger sequencing confirmation. It generally works well for me, especially for E. coli, but YMMV. 
 
 ### Equipment and supplies
 
