@@ -18,7 +18,7 @@ Disclaimer: DNA prepared using this method is not clean and is not meant to be u
 
 1. Transfer 1.5 to 2 ml culture into microfuge tube
 2. Pellet cells
-3. Discard supernatant and repeat 
+3. Discard supernatant and repeat if pellet is small
 4. Remove all supernant
 5. Freeze the pellet using whichever option is most convenient:
     1. at -80C (good for end of the day)
