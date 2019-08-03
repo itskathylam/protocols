@@ -8,7 +8,7 @@ This protocol has been adapted from phage protocols available from the [Center f
 - [ ] overnight culture of host
 - [ ] phage lysate
 - [ ] microfuge tube
-- [ ] agar plates
+- [ ] agar plates supplemented with 10 mM MgSO4
 - [ ] agar overlay (standard 0.7% agar; try as low as 0.2% agarose for pinprick plaques)
 - [ ] disposable spreader
 - [ ] 1 ml pipette tips, manually cut off a few mm of the tip with scissors for larger opening
