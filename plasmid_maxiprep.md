@@ -71,3 +71,4 @@ This protocol has been adapted from: Trevor Charles, 1990. *Construction of a ge
 35. Add 1 ml TE and allow the DNA to dissolve at 4C overnight.
 36. To quantify by Nanodrop, dilute 1-in-10 and 1-in-100. Also confirm by gel electrophoresis.\
 *Note: Typically, plasmid maxipreps yield concentrations of 500-1000 ng/ul for low-copy plasmids.*
+37. Incubate at 60-65C for 15 min to inactivate contaminating nucleases. Store at -20C.
