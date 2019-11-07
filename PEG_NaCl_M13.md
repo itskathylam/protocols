@@ -10,7 +10,7 @@ This recipe is adapted from Tonikian et al., 2007. Nature Protocols. Identifying
 
 - Start with ~750 ml dH2O
 - Add PEG-8000 and NaCl
-- Heat at 55-65C several hours to aid dissolving
+- Use water bath at 55-65C to aid dissolving
 - Use a magnetic stir bar to stir slowly until cooled to room temperature
 - Top to 1 L with dH2O
 
