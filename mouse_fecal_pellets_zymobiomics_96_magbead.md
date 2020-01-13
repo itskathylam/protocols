@@ -68,7 +68,7 @@ This is a tedious part of the protocol and makes for a long day when done togeth
 21. Remove from magnetic stand; add 900 ul Wash 1 and pipette once to mix; cover with adhesive foil; vortex 5 min, 750 rpm; capture beads on magnetic stand; discard supernatant by aspiration.
 22. Remove from magnetic stand; add 900 ul Wash 2 and pipette once to mix; cover with adhesive foil; vortex 5 min, 750 rpm; capture beads on magnetic stand; discard supernatant by aspiration.
 23. Repeat previous step.
-24. Pop centrifuge 1000 rpm to draw remaining liquid and beads to bottom of the well.
+24. Pop centrifuge 1000 rpm to draw remaining liquid and beads to bottom of the well.\
 *Note: residual liquid on well sides is more difficult to evaporate in the next step.*
 25. Dry well at 65°C 15-30 min in aluminum bead dry bath, with a loose fitting cover to allow evaporation.
 26. Elute DNA by adding 100 ul water and pipetting well to mix; cover with adhesive foil, vortex 10 min, 1000 rpm.
