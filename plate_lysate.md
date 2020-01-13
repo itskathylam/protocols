@@ -26,7 +26,7 @@ This protocol has been adapted from phage protocols available from the [Center f
 3. To a microfuge tube, add 100 ul of overnight culture.\
 *Note: this amount may need to be increased to form an appropriate lawn.*
 4. Add 1-100 ul of phage, depending on the titer. Include a cells-only control with no phage added.\
-*Note: prepare a few serial ten-fold dilutions if you are unsure of the titer.*
+*Note: prepare a few dilutions if you are unsure of the titer.*
 5. Incubate for 10 min at 37C to aid adsorption.
 6. Remove tube of agar overlay from water bath.
 7. Add host-phage mixture.
