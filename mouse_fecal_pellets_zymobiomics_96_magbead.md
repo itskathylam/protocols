@@ -63,15 +63,16 @@ This is a tedious part of the protocol and makes for a long day when done togeth
 16. Centrifuge 3250 rpm (~2000g) 10 min at RT in Beckman Coulter Allegra 6R.
 17. Transfer 200 ul to 2-ml 96-well deep-well block; label the lysis rack and store remainder -20°C.
 18. Add 600 ul binding buffer.
-19. Vortex magnetic beads; add 25 ul beads.
-20. Pipette with P100 to mix well; cover with adhesive foil; vortex 10 min, 750 rpm; capture beads; discard supernatant.
-21. Add 900 ul Wash 1; cover with adhesive foil; vortex 5 min, 750 rpm; capture beads; discard supernatant.
-22. Add 900 ul Wash 2; cover with adhesive foil; vortex 5 min, 750 rpm; capture beads; discard supernatant.
+19. Vortex magnetic beads for 5-10 s to thoroughly resuspend; add 25 ul beads.
+20. Pipette with P100/200 to mix well; cover with adhesive foil; vortex 10 min, 750 rpm; capture beads on magnetic stand; discard supernatant by aspiration.
+21. Remove from magnetic stand; add 900 ul Wash 1 and pipette once to mix; cover with adhesive foil; vortex 5 min, 750 rpm; capture beads on magnetic stand; discard supernatant by aspiration.
+22. Remove from magnetic stand; add 900 ul Wash 2 and pipette once to mix; cover with adhesive foil; vortex 5 min, 750 rpm; capture beads on magnetic stand; discard supernatant by aspiration.
 23. Repeat previous step.
-24. Pop centrifuge 1000 rpm to collect remaining liquid to bottom.
-25. Dry well at 65°C 15-30 min, with a loose fitting cover to allow evaporation.
+24. Pop centrifuge 1000 rpm to draw remaining liquid and beads to bottom of the well.
+*Note: residual liquid on well sides is more difficult to evaporate in the next step.*
+25. Dry well at 65°C 15-30 min in aluminum bead dry bath, with a loose fitting cover to allow evaporation.
 26. Elute DNA by adding 100 ul water and pipetting well to mix; cover with adhesive foil, vortex 10 min, 1000 rpm.
-27. Capture beads; carefully rescue DNA in supernatant and transfer to PCR plate.
+27. Capture beads on magnetic stand; carefully rescue DNA in supernatant and transfer to PCR plate.
 28. Label PCR plate with date and description; place PCR plate in microplate, and label microplate lid with more detailed information. Place microplate in freezer box and store DNA at -20°C.
 
 
