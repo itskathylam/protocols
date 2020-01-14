@@ -23,8 +23,8 @@ This protocol has been adapted from phage protocols available from the [Center f
 1. Melt agar overlay; dispense 3-5 ml into culture tube; hold at 55C water bath.
 2. Warm agar plates at 37C, especially if stored at 4C.\
 *Tip: warm plates will help prevent the overlay from solidifying too quickly.*
-3. To a microfuge tube, add 100 ul of overnight culture.\
-*Note: this amount may need to be increased to form an appropriate lawn.*
+3. To a microfuge tube, add 150 ul of overnight culture.\
+*Note: this amount may need to be increased to form an appropriate lawn depending on the species/strain.*
 4. Add 1-100 ul of phage, depending on the titer. Include a cells-only control with no phage added.\
 *Note: prepare a few dilutions if you are unsure of the titer.*
 5. Incubate for 10 min at 37C to aid adsorption.
