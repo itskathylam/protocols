@@ -13,6 +13,7 @@ This protocol has been adapted from phage protocols available from the [Center f
 - [ ] disposable spreader
 - [ ] 1 ml pipette tips, manually cut off a few mm of the tip with scissors for larger opening
 - [ ] 15 ml conical tubes
+- [ ] 100 micron cell strainers
 - [ ] syringe
 - [ ] 0.45 micron syringe filter
 - [ ] 10% bleach spray bottle
@@ -43,7 +44,8 @@ This protocol has been adapted from phage protocols available from the [Center f
 4. Using the manually cut 1-ml pipette tips, transfer the suspension to a conical tube.\
 *Tip: work slowly and gently to avoid splashing to prevent phage cross contamination!*
 5. Centrifuge the suspension to pellet agar and bacterial debris. 
-6. Filter the supernatant through 0.45 micron filter into a clean conical.\
+6. Pour supernatant through cell strainer to remove dislodged pieces of agar that will clog the filter.
+7. Filter through 0.45 micron filter into a clean conical.\
 *Note: the filter may clog; if so, gently remove from the syringe and use a new filter.*
-7. Label the lysate, including the date and host strain, and store at 4C.
-8. Spray 10% bleach and wipe work area thoroughly. Remove biohazardous waste from bench.
+8. Label the lysate, including the date and host strain, and store at 4C.
+9. Spray 10% bleach and wipe work area thoroughly. Remove biohazardous waste from bench.
