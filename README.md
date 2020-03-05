@@ -7,7 +7,7 @@ The following are protocols that I have generated myself, inherited from others,
 
 ### Bacterial Methods
 - [Quick genomic DNA miniprep for PCR](quick_gDNA_miniprep.md) 
-- [High-molecular-weight genomic DNA midiprep for Nanopore sequencing](HMW_gDNA_prep_Nanopore.md) 
+- High-molecular-weight genomic DNA midiprep for Nanopore sequencing 
 - Plasmid DNA miniprep using Qiagen QIAprep Spin Miniprep Kit
 - [Plasmid DNA maxiprep](plasmid_maxiprep.md)
 - Preparation of electrocompetent cells
