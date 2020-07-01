@@ -7,10 +7,10 @@ The following are protocols that I have generated myself, inherited from others,
 
 ### Bacterial Methods
 - [Quick genomic DNA miniprep for PCR](quick_gDNA_miniprep.md) 
+- [Genomic DNA miniprep](gDNA_miniprep.md) 
 - High-molecular-weight genomic DNA midiprep for Nanopore sequencing 
 - Plasmid DNA miniprep using Qiagen QIAprep Spin Miniprep Kit
 - [Plasmid DNA maxiprep](plasmid_maxiprep.md)
-- Preparation of electrocompetent cells
 - Triparental conjugation into Bacteroides
 - Biparental conjugation into Clostridia
 - [P1 transduction of E. coli](p1_transduction.md)
@@ -22,7 +22,7 @@ The following are protocols that I have generated myself, inherited from others,
 - Phage enrichment from wastewater
 - Streak-purification of phage
 - [Preparation of plate lysate](plate_lysate.md)
-- Ultracentrifugation for quick clean-up of phage lysates
+- Ultracentrifugation clean-up of phage lysates
 - [DNA extraction from phage using Promega Wizard DNA Clean-Up Kit](dna_extraction_phage_wizard_kit.md)
 - [Test lysogen supernatants for spontaneous induction of phage](lysogen_supernatants_phage.md)
 
