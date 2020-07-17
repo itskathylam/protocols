@@ -1,6 +1,6 @@
 # Protocols adapted by Kathy N. Lam
 
-The things that we do in the laboratory form the foundation of our science. Protocol transparency is important for reproducibility and for understanding caveats due to methodology. Protocol sharing also helps the entire scienctific enterprise and Github is a awesome way to keep protocols up-to-date but also be able to refer to older versions. 
+The things that we do in the laboratory form the foundation of our science. Protocol transparency is important for reproducibility and for understanding caveats due to methodology. Protocol sharing also helps the entire scienctific enterprise and Github is an awesome way to keep protocols up-to-date but also be able to refer to older versions. 
 
 The following are protocols that I have generated myself, inherited from others, or are adapted from those in product manuals, in the literature, or on the web. Where possible, references are included. If there are any errors to be fixed or improvements for clarity, please let me know. This is a work in progress, and protocols will be linked as soon as I have time to update them! 
 
