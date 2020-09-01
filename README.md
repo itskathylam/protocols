@@ -41,7 +41,7 @@ The following are protocols that I have generated myself, inherited from others,
 
 ### Molecular Biology Methods
 - Gel eletrophoresis
-- Restriction enzyme digestion
+- Cloning PCR products using restriction enzymes
 - Illumina library preparation using TruSeq PCR-free LT kit
 
 
