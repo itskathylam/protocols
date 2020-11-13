@@ -1,3 +1,8 @@
+# ZymoBIOMICS 96 MagBead DNA Kit Catalog Numbers
+
+If kits becomes backordered, use the information below to order and maintain inventory of the individual kit components. 
+
+
 | Catalog Number | Item                                         | Size            | Product Type | Cost (Zymo) | Cost (Bearbuy VWR) | Order 1 kit worth | Cost 1 kit worth  |
 |----------------|----------------------------------------------|-----------------|--------------|-------------|--------------------|-------------------|-------------------|
 | D4302          | ZymoBIOMICS 96 MagBead DNA Kit (Lysis Rack)  | 2 x 96 Preps    | Kit          | $932.00     |                    |                   |                   |
