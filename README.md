@@ -73,3 +73,6 @@ The following are protocols that I have generated myself, inherited from others,
 - [TEG, ALS, and HSS solutions](TEG_ALS_HSS_solutions.md)
 - PEG/NaCl precipitation solution for phage DNA extraction
 - [PEG/NaCl precipitation solution for M13 phage](PEG_NaCl_M13.md)
+
+### Ordering Information
+- [ZymoBIOMICS kit components](zymobiomics_catalog.md)
