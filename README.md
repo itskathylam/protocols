@@ -75,4 +75,4 @@ The following are protocols that I have generated myself, inherited from others,
 - [PEG/NaCl precipitation solution for M13 phage](PEG_NaCl_M13.md)
 
 ### Ordering Information
-- [ZymoBIOMICS kit components](zymobiomics_catalog.md)
+- [ZymoBIOMICS 96 MagBead kit components](zymobiomics_catalog.md)
