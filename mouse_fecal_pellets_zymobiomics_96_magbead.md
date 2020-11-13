@@ -40,8 +40,7 @@ The following protocol is adapted from the manual for the [ZymoBIOMICS 96 MagBea
 This is a tedious part of the protocol and makes for a long day when done together with the DNA extraction; therefore, I like to separate the two procedures into two days. Weighing fecal pellets will take approximately 1 hour per plate. If you have multiple plates, I highly recommend this separation.
 
 1. Include a few wells as negative DNA extraction controls. For DNA extractions for 16S rRNA gene sequencing, include laboratory DNA extraction standards. Consider that ZymoBIOMICS strip tubes allow extraction in multiples of 8, so the total number of samples should be a multiple of 8.
-2. Randomize samples and controls for DNA extraction.\
-*Exercise: Use tidyverse/dplyr function sample_n() to accomplish this.*
+2. Randomize samples by timepoint and intersperse controls for DNA extraction.
 3. Place sample tubes in a microfuge tube rack in the randomized order, for more efficient and less error-prone sample transfer to the Zymo strip tubes. Double check that samples are in their correct position.
 4. Label the first tube of each strip of tubes in the lysis rack with the column number and "A", e.g. "1A", "2A", etc.
 5. Using tweezers, loosen caps on strip stubes in the lysis rack. 
