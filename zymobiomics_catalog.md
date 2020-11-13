@@ -1,4 +1,4 @@
-# ZymoBIOMICS 96 MagBead DNA Kit Catalog Numbers
+# ZymoBIOMICS 96 MagBead DNA Kit catalog numbers
 
 If kits becomes backordered, use the information below to order and maintain inventory of the individual kit components. 
 
