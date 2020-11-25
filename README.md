@@ -14,6 +14,7 @@ The following are protocols that I have generated myself, inherited from others,
 - Triparental conjugation into Bacteroides
 - Biparental conjugation into Clostridia
 - [P1 transduction of E. coli](p1_transduction.md)
+- [Saving strains from lyophilized cultures or agar stabs](saving_strains.md)
 
 
 ### Bacteriophage Methods
@@ -67,6 +68,7 @@ The following are protocols that I have generated myself, inherited from others,
 - LB media
 - [TB media](TB_media.md) 
 - 2YT media
+- [glycerol 50%](glycerol_50.md)
 - [SM buffer](SM_buffer.md)
 - TE buffer
 - TAE buffer
