@@ -12,7 +12,7 @@
 
 1. Break open vial per instructions
 2. Add 1 ml media and pipette well to reconstitute 
-3. Transfer 50-100 ul onto agar plate; streak out for single colonies using multiple sticks
+3. Transfer 50 ul onto agar plate; streak out for single colonies using multiple sticks
 4. To the remaining volume, add glycerol to 25% final; freeze at -80C for backup
 5. Incubate plate 
 6. Visually check for contamination by confirming a uniform morphology
