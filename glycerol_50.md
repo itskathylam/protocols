@@ -10,7 +10,7 @@ This solution is for saving strains.
 
 - Add water first to a glass graduated cylinder, then top to the final volume with glycerol. I find this order much easier than the reverse.
 - Use parafilm to seal the top of the graduated cylinder
-- Mix well by inverted ~10 times
+- Mix well by inversion ~10-15 times
 - Pour into glass bottle
 - Autoclave
 - For anaerobic use, add L-cysteine and resazurin and equilibrate in the the anaerobic chamber
