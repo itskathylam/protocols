@@ -5,7 +5,7 @@
 - [ ] solid media, equilibrated if necessary
 - [ ] liquid media, equilibrated if necessary
 - [ ] cryovials, screw-cap or crimp-top 
-- [ ] 50% glycerol
+- [ ] 75% glycerol
 - [ ] wooden sticks (or inoculating loops)
 
 ### From lyophilized (freeze-dried) cultures
