@@ -68,7 +68,7 @@ The following are protocols that I have generated myself, inherited from others,
 - LB media
 - [TB media](TB_media.md) 
 - 2YT media
-- [glycerol 50%](glycerol_50.md)
+- [glycerol 75%](glycerol_75.md)
 - [SM buffer](SM_buffer.md)
 - TE buffer
 - TAE buffer
