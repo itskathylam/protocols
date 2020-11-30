@@ -1,10 +1,10 @@
-# 50% glycerol 
+# 75% glycerol 
 
 This solution is for saving strains.
 
 | Component             | Amount        |
 |-----------------------|---------------|
-| dH2O                  | 90 ml         |
+| dH2O                  | 25 ml         |
 | glycerol              | top to 100 ml |
 
 
