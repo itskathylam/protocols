@@ -29,7 +29,8 @@ The following are protocols that I have generated myself, inherited from others,
 
 
 ### M13 phage Methods
-- Generation of M13 particles carrying phagemid ssDNA
+- Generation of M13 phage carrying standard phagemid e.g. pBluescript II
+- Generation of M13 phage carrying CRISPR-Cas9 phagemids
 
 
 ### Mouse Methods
